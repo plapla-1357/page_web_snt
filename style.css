@@ -1,19 +1,56 @@
-#fond {
-	background-color : #0869b1;
+p{
+	color: white;
+	font-size: 1.2em;
+}
+h1 {
+	color: #ffffffb4;
+	font-size: 100%;
 }
 
-# colone {
+
+#title {
+	width: 69%;
+	height: 70px;
+	float : left;
+	background-color: #14146b;
+	margin-top: 1%;
+}
+
+#fond {
+	background-color : #070a2c;
+}
+
+#colone {
 	width : 30%;
-	height:100%;
-	margin-top: 10px;
+	height:600px;
+	margin-top: 1%;
 	margin-left: auto;
 	margin-right: auto;
 }
+
+#main {
+	width: 69%;
+	height: 68%;
+	background-color: #1212df;
+}
+#diviseur{
+	width: 1%;
+	height: 600px;
+	background-color: black;
+	margin-top: 1%;
+}
+
+
+
 
 .right {
 	float : right; 
 }
 
+.left {
+	float : left;
+}
+
 .bleu{
-	background-color: #0000ff;
+	background-color: #06065e;
 }

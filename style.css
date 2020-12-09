@@ -1,47 +1,74 @@
-p{
+h2 {
+	font-size: 1.6em;
 	color: white;
-	font-size: 1.2em;
 }
 h1 {
+	font-size: 2em;
 	color: #ffffffb4;
-	font-size: 100%;
 }
-
-
-#title {
-	width: 69%;
-	height: 70px;
-	float : left;
-	background-color: #14146b;
-	margin-top: 1%;
+p{
+	color: white;
+	font-size: 1.3em;
 }
-
+h4 {
+	color: white;
+	font-size: 1.4em;
+}
+li {
+	color: #ffae00;
+	font-size: 1.4em;
+}
+}
 #fond {
 	background-color : #070a2c;
+	
+}
+#paneaux_left{
+	width: 69%;
+	height: 680px;
+	float: right;
+	margin-top: 1%;
+ }
+
+#title {
+	width: 100%;
+	height: 150px;
+	float : left;
+	background-color: #14146b;
+	
 }
 
 #colone {
 	width : 30%;
-	height:600px;
+	height:680px;
 	margin-top: 1%;
 	margin-left: auto;
 	margin-right: auto;
 }
 
 #main {
-	width: 69%;
-	height: 68%;
+	width: 100%;
+	height: 520px;
 	background-color: #1212df;
 }
 #diviseur{
 	width: 1%;
-	height: 600px;
+	height: 680px;
 	background-color: black;
 	margin-top: 1%;
 }
+#diviseur2 {
+	width: 100%;
+	height: 10px;
+	float : left;
+	background-color: #000000;
+}
 
 
-
+#drapeau{
+	height: 20px;
+	width: auto;
+}
 
 .right {
 	float : right; 

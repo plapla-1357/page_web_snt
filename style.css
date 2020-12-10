@@ -18,7 +18,7 @@ li {
 	color: #ffae00;
 	font-size: 1.4em;
 }
-}
+
 #fond {
 	background-color : #070a2c;
 	
@@ -40,7 +40,7 @@ li {
 
 #colone {
 	width : 30%;
-	height:680px;
+	height:1080px;
 	margin-top: 1%;
 	margin-left: auto;
 	margin-right: auto;
@@ -48,12 +48,18 @@ li {
 
 #main {
 	width: 100%;
-	height: 520px;
+	height: 920px;
 	background-color: #1212df;
+}
+
+#main_2 {
+	width: 98%;
+	height: 100%;
+	margin-left: 1%;
 }
 #diviseur{
 	width: 1%;
-	height: 680px;
+	height: 1080px;
 	background-color: black;
 	margin-top: 1%;
 }

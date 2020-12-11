@@ -65,6 +65,39 @@ li {
 	background-color: #3c0496;
 }
 
+#perso_col{
+	width: 90%;
+	height: 400px;
+	background-color: #0c0c97;
+	margin-left: 5%;
+	margin-right: 5%;
+}
+
+#image_col {
+	width: 90%;
+	height: auto;
+	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10px;
+}
+#descrit_col {
+	width: 70%;
+	height: auto;
+
+}
+#descrit_flag_col {
+	width: 25%;
+	height: auto;
+}
+#title_descrit{
+	width: 94%;
+	height: 50px;
+	margin-top: 1%;
+	margin-left: 3%;
+	background-color: #05052b;
+
+}
+
 
 /*****************************/
 
@@ -114,6 +147,7 @@ li {
 .left {
 	float : left;
 }
+
 /******************************/
 
 
@@ -124,3 +158,10 @@ li {
 /********************************/
 
 /*class utiles*/
+
+/*id flag dans une div pour qu'il garde la taille de la div sans se deformer*/
+#image_div {
+	width: 95%;
+	height: auto;
+	margin-left: 2%;
+}

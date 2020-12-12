@@ -1,9 +1,7 @@
 # page_web_snt
 travail de snt faire une page web
+en SNT nous deevons faire une page web sur le theme de notre choix
 
-toutes les height sont en px 
-toutes les width sont en %
-
-## a faire :
+ma page web parle donc de la course a l'espace lors de la guerre froide.
 
 

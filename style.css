@@ -132,6 +132,7 @@ li {
 	width: 98%;
 	height: 100%;
 	margin-left: 1%;
+	position: relative;
 }
 
 #image_main {
@@ -145,6 +146,9 @@ li {
 	height: 40px;
 	width: auto;
 }
+
+
+
 /*****************************/
 
 

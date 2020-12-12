@@ -53,7 +53,7 @@ li {
 /*colone divs*/
 #colone {
 	width : 30%;
-	height:1080px;
+	height:3080px;
 	margin-top: 1%;
 	margin-left: auto;
 	margin-right: auto;
@@ -72,11 +72,25 @@ li {
 	margin-left: 5%;
 	margin-right: 5%;
 }
+#perso_col2{
+	width: 90%;
+	height: 800px;
+	background-color: #0c0c97;
+	margin-left: 5%;
+	margin-right: 5%;
+}
 
 #image_col {
 	width: 90%;
 	height: auto;
 	margin-left: 5%;
+	margin-right: 5%;
+	margin-top: 10px;
+}
+#image_col2 {
+	width: 64%;
+	height: auto;
+	margin-left: 17%;
 	margin-right: 5%;
 	margin-top: 10px;
 }
@@ -98,6 +112,10 @@ li {
 
 }
 
+#petite_police {
+	font-size: smaller;
+}
+
 
 /*****************************/
 
@@ -106,7 +124,7 @@ li {
 /*main divs*/
 #main {
 	width: 100%;
-	height: 920px;
+	height: 2920px;
 	background-color: #1212df;
 }
 
@@ -115,6 +133,18 @@ li {
 	height: 100%;
 	margin-left: 1%;
 }
+
+#image_main {
+	width: 30%;
+	height: auto;
+	margin-right: 10px;
+	
+}
+
+#image_in_text {
+	height: 40px;
+	width: auto;
+}
 /*****************************/
 
 
@@ -122,7 +152,7 @@ li {
 /*diviseurs*/
 #diviseur{
 	width: 1%;
-	height: 1080px;
+	height: 3080px;
 	background-color: black;
 	margin-top: 1%;
 }
@@ -154,6 +184,9 @@ li {
 /*color*/
 .bleu{
 	background-color: #06065e;
+}
+.white {
+	color: #ffffff;
 }
 /********************************/
 
